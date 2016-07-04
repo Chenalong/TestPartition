@@ -1,0 +1,12 @@
+
+NETFLIX_DATA_ROOT=/home/chenalong/netflix_movie/libmf_data_type
+
+TRAINING_DATA=$NETFLIX_DATA_ROOT/new_formal_train_data.txt
+
+CROSS_VALIDATION=$NETFLIX_DATA_ROOT/cross_validation_data.txt
+
+TEST_DATA=$NETFLIX_DATA_ROOT/new_formal_test_data.txt
+
+PREDICT_RESULT=$NETFLIX_DATA_ROOT/predict_result.txt
+
+YAHOO_DATA_ROOT=/home/chenalong/data/yahoo_music/ydata-ymusic-user-song-ratings-meta-v1_0
